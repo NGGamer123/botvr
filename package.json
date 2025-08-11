@@ -1,0 +1,28 @@
+{
+  "name": "discord-vouch-bot",
+  "version": "1.0.0",
+  "description": "A configurable Discord vouch bot with backup and restore functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "vouch",
+    "rating",
+    "backup"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

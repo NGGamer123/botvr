@@ -1,0 +1,49 @@
+# Discord Bot Configuration
+token = "YOUR_BOT_TOKEN_HERE"
+clientId = "YOUR_CLIENT_ID_HERE"
+guildId = "YOUR_GUILD_ID_HERE"
+
+# Permissions and Channels
+ownerRoleId = "YOUR_OWNER_ROLE_ID_HERE"
+vouchInAllChannels = false
+allowVouchChannelId = "YOUR_VOUCH_CHANNEL_ID_HERE"
+
+# Bot Settings
+emojiVouch = "⭐"
+businessName = "My Amazing Shop"
+useThumbnailCustom = ""
+
+# Embed Settings - Color Options
+embedColor = 0
+# Color examples (decimal format):
+# 0 = Black
+# 16777215 = White  
+# 16711680 = Red
+# 65280 = Green
+# 39423 = Blue
+# 16734003 = Orange
+# 10181046 = Purple
+# 15844367 = Yellow
+# 3447003 = Discord Blues
+# 15105570 = Gold
+
+# Web Interface Settings
+useWeb = true
+webPort = 3000
+webHost = "0.0.0.0"  # Use "0.0.0.0" for VPS access, "localhost" for local only
+
+# Example configurations for different setups:
+
+# Local development only:
+# webHost = "localhost"
+# webPort = 3000
+
+# VPS/Server deployment:
+# webHost = "0.0.0.0"
+# webPort = 3000
+
+# Custom port (if 3000 is taken):
+# webPort = 8080
+
+# Disable web interface:
+# useWeb = false
