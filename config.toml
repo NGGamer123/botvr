@@ -1,17 +1,17 @@
 # Discord Bot Configuration
-token = "YOUR_BOT_TOKEN_HERE"
-clientId = "YOUR_CLIENT_ID_HERE"
-guildId = "YOUR_GUILD_ID_HERE"
+token = "MTQwNDYxMDgwOTczNjQ2MjMzNg.GLkr2Y.tlpLOGbK1Y0WFBMa0rsTKkxlx-_mANTVge6Bmg"
+clientId = "1404610809736462336"
+guildId = "1404266808143515749"
 
 # Permissions and Channels
-ownerRoleId = "YOUR_OWNER_ROLE_ID_HERE"
+ownerRoleId = "1404271440621993984"
 vouchInAllChannels = false
-allowVouchChannelId = "YOUR_VOUCH_CHANNEL_ID_HERE"
+allowVouchChannelId = "1404278846152380598"
 
 # Bot Settings
 emojiVouch = "⭐"
-businessName = "My Amazing Shop"
-useThumbnailCustom = ""
+businessName = "THC-STORE"
+useThumbnailCustom = "https://i.ibb.co/QjNXHQ22/9z-Utf7-J-1.png"
 
 # Embed Settings - Color Options
 embedColor = 0
@@ -28,7 +28,7 @@ embedColor = 0
 # 15105570 = Gold
 
 # Web Interface Settings
-useWeb = true
+useWeb = false
 webPort = 3000
 webHost = "0.0.0.0"  # Use "0.0.0.0" for VPS access, "localhost" for local only
 
