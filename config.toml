@@ -1,5 +1,5 @@
 # Discord Bot Configuration
-token = "MTQwNDYxMDgwOTczNjQ2MjMzNg.Gm-gpc.9TOHkj4XskUbNBPaySIEQXlosLw7tpa1ZW3DZs"
+token = "MTQwNDYxMDgwOTczNjQ2MjMzNg.G6EZLE.mHNbAXEITfpTiO7uKAp5Ou0EsMQD7XRD9izfxI"
 clientId = "1404610809736462336"
 guildId = "1404266808143515749"
 
@@ -47,4 +47,5 @@ webHost = "0.0.0.0"  # Use "0.0.0.0" for VPS access, "localhost" for local only
 
 # Disable web interface:
 # useWeb = false
+
 
