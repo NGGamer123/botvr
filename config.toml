@@ -7,7 +7,7 @@ guildId = "1404266808143515749"
 ownerRoleId = "1404271440621993984"
 vouchInAllChannels = false
 allowVouchChannelId = "1404278846152380598"
-
+reviewChannelId = "1404278846152380598"
 # Bot Settings
 emojiVouch = "⭐"
 businessName = "THC-STORE"
@@ -47,6 +47,7 @@ webHost = "0.0.0.0"  # Use "0.0.0.0" for VPS access, "localhost" for local only
 
 # Disable web interface:
 # useWeb = false
+
 
 
 
